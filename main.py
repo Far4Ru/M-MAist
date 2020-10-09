@@ -166,7 +166,7 @@ def main():
     #leftClick()
     #r = requests.Session()
     #r.auth = ('id','1')
-    #r.post('https://mordor-magic.000webhostapp.com/data/php/task_table/change_completion_cell_from_task_table.php',{'character':'LAZER','task':'Дозор', 'cell_value':1})
+    #r.post('.php',{'character':'LAZER','task':'Дозор', 'cell_value':1})
     
     #r.text
 if __name__ == '__main__':
